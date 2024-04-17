@@ -1,9 +1,10 @@
 # PROJECT SPECIFICATIONS
 ## Objective. In this project you will have to:
 ● Design
+
 ● Implement
-● Evaluate and Optimize
-a machine learning model to be applied for Spam Classification.
+
+● Evaluate and Optimize a machine learning model to be applied for Spam Classification.
 
 ## Learning Outcomes.
  Through this project, the student will get familiar with experimental evaluation
