@@ -1,3 +1,0 @@
-# HOW TO EXECUTE
-
-Besides of the train_test function, the first three lines of the code in the main file are the names of the train_csv, test-csv and predictions.txt files. Place the csv files in the folder and change the name of the test file if necessary. The experiments are made in separated folders in the zip. No further instructions are needed to compile them, just run every python file independently.
