@@ -4,31 +4,31 @@
 
 ● Implement
 
-● Evaluate and Optimize a machine learning model to be applied for Spam Classification.
+● Evaluate and Optimize a machine learning model to be applied for Spam Classification
 
-## Learning Outcomes.
+## Learning Outcomes
  Through this project, the student will get familiar with experimental evaluation
 of machine learning models, pre-processing of data, writing a short technical report, selecting
 parameters of a model, combining classifiers, use of appropriate libraries (RapidMiner, Python), and
 dealing with a real-world machine learning problem.
 
-## Data. 
+## Data
 You can find the data uploaded to moodle. The file includes a set of documents marked with
 the following labels: spam, ham (nonspam). The data are in raw format (text) so you have to
 convert them to the form that the algorithms can process. This is part of the pre-processing step.
 
-## Goal. 
+## Goal
 You have to train, optimize and evaluate the models on these data in order to get the best
 possible predictive performance in new, unknown data.
 
-## Experimenting and Selecting your model. 
+## Experimenting and Selecting your model
 You are provided with a file named train.csv. Use this
 to select the best model for this type of data in your opinion. For that, you need to experiment with
 multiple algorithms (that we have seen in class) and parameters (as we have seen in class) for each
 algorithm and with a proper evaluation process (train-test, cross-validation, or whatever you think is
 best). This experimentation should be presented in your Technical Report.
 
-## Preparing your model for evaluation.
+## Preparing your model for evaluation
  After you decide on the best model, you need to prepare it to
 classify some new, unknown data. The new data will not be provided to you. The instructors should
 be able to use your model in order to classify new data. The instructors will have a test.csv file which
